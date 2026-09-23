@@ -1,0 +1,20 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Temporary / Cache files
+.cache/
+*.log
+scratch/
+demo_recordings/
+.DS_Store
+
+# Deployment metadata generated locally
+deployment_metadata.json
